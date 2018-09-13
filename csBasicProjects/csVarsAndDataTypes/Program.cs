@@ -16,7 +16,7 @@ namespace VariablesAndDataTypes
             Console.Write("\n Which course are you on? : ");
             string course = Console.ReadLine();
 
-            Console.Write("\n Whic page are you on(#)? : ");
+            Console.Write("\n Which page are you on(#)? : ");
             int page = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("\n Do you need help with anything? Please answer “true” or “false”: ");
@@ -31,7 +31,7 @@ namespace VariablesAndDataTypes
             Console.Write("\n How many hours did you study today? : ");
             SByte studyHours = Convert.ToSByte(Console.ReadLine());
 
-            
+
 
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             Console.Read();
