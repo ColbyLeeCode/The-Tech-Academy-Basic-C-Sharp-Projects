@@ -20,7 +20,7 @@ namespace IncomeComparisonLab
             p1Hours = getInput();
 
             //Calculate Annual salary
-            p1Sal = p1Rate * p1Hours * 52.1429;
+            p1Sal = p1Rate * p1Hours;
 
    
 
@@ -33,10 +33,10 @@ namespace IncomeComparisonLab
             p2Hours = getInput();
 
             //Calculate Annual salary
-            p2Sal = p2Rate * p2Hours * 52.1429;
+            p2Sal = p2Rate * p2Hours;
 
-            Console.WriteLine("Annual salary of Person 1:\n" + p1Sal);
-            Console.WriteLine("Annual salary of Person 2:\n" + p2Sal);
+            Console.WriteLine("Weekly salary of Person 1:\n" + p1Sal);
+            Console.WriteLine("Weekly salary of Person 2:\n" + p2Sal);
             Console.WriteLine("Does Person 1 make more money than Person 2?\n" + (p1Sal > p2Sal));
             Console.Read();
         }
