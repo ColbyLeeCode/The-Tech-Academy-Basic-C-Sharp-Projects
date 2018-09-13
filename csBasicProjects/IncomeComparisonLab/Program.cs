@@ -19,7 +19,7 @@ namespace IncomeComparisonLab
             Console.Write("Hours worked per week: ");
             p1Hours = getInput();
 
-            //Calculate Annual salary
+            //Calculate Weekly salary
             p1Sal = p1Rate * p1Hours;
 
    
@@ -32,7 +32,7 @@ namespace IncomeComparisonLab
             Console.Write("Hours worked per week: ");
             p2Hours = getInput();
 
-            //Calculate Annual salary
+            //Calculate Weekly salary
             p2Sal = p2Rate * p2Hours;
 
             Console.WriteLine("Weekly salary of Person 1:\n" + p1Sal);
