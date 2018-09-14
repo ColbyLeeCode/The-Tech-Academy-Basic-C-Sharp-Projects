@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csOperatorsLab", "csOperato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomeComparisonLab", "IncomeComparisonLab\IncomeComparisonLab.csproj", "{6CD71F27-B532-4354-8C35-327F17FDF8F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanLogicLab", "BooleanLogicLab\BooleanLogicLab.csproj", "{B736689F-E645-4236-8393-909A88C96893}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6CD71F27-B532-4354-8C35-327F17FDF8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CD71F27-B532-4354-8C35-327F17FDF8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CD71F27-B532-4354-8C35-327F17FDF8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B736689F-E645-4236-8393-909A88C96893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B736689F-E645-4236-8393-909A88C96893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B736689F-E645-4236-8393-909A88C96893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B736689F-E645-4236-8393-909A88C96893}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
