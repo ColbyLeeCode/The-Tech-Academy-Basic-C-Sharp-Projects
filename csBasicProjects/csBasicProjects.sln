@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingLab", "BranchingLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsLab", "LoopsLab\LoopsLab.csproj", "{5A055CBB-5D2D-4E2E-BB8E-A4CCD8F6FF24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsLab", "StringsLab\StringsLab.csproj", "{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5A055CBB-5D2D-4E2E-BB8E-A4CCD8F6FF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A055CBB-5D2D-4E2E-BB8E-A4CCD8F6FF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A055CBB-5D2D-4E2E-BB8E-A4CCD8F6FF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
