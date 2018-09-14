@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsLab", "LoopsLab\LoopsL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsLab", "StringsLab\StringsLab.csproj", "{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DArrayLab", "1DArrayLab\1DArrayLab.csproj", "{22A50357-E2C7-4127-9084-96C6554D4FD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6A2F72C-04ED-4C93-8D2D-8A97C2DBC26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A50357-E2C7-4127-9084-96C6554D4FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A50357-E2C7-4127-9084-96C6554D4FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A50357-E2C7-4127-9084-96C6554D4FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A50357-E2C7-4127-9084-96C6554D4FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
