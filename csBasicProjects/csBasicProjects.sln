@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DArrayLab", "1DArrayLab\1D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsListsLab", "LoopsListsLab\LoopsListsLab.csproj", "{9CE11E42-3169-428A-9BFA-6B225FC304BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsLab", "ExceptionsLab\ExceptionsLab.csproj", "{3350BB8B-7CE2-413A-90CA-ADB488FB1D99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9CE11E42-3169-428A-9BFA-6B225FC304BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CE11E42-3169-428A-9BFA-6B225FC304BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CE11E42-3169-428A-9BFA-6B225FC304BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3350BB8B-7CE2-413A-90CA-ADB488FB1D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3350BB8B-7CE2-413A-90CA-ADB488FB1D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3350BB8B-7CE2-413A-90CA-ADB488FB1D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3350BB8B-7CE2-413A-90CA-ADB488FB1D99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
