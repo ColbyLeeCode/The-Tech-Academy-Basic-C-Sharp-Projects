@@ -24,7 +24,7 @@ namespace ExceptionsLab
 
             foreach (double i in ints)
                 Console.WriteLine(i / input);
-            Console.ReadLine();
+       
 
             /* Now put the loop in a try/catch block. Below and outside of the try/catch block, 
              * make the program display a message to the display to let you know the program 
