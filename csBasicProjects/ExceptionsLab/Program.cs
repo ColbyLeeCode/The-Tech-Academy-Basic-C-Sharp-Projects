@@ -43,18 +43,10 @@ namespace ExceptionsLab
                     Console.WriteLine(total);
                 }
             }
-            catch (FormatException e)
-            {
-                Console.WriteLine("Please input only numbers.");
-            }
-            catch (DivideByZeroException e)
-            {
-                Console.WriteLine("Please don't divide by zero.");
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.GetType());
-            }
+            catch (FormatException e) { Console.WriteLine("Please input only numbers."); }
+            catch (DivideByZeroException e) { Console.WriteLine("Please don't divide by zero."); }
+            catch (Exception e) { Console.WriteLine(e.GetType()); }
+
             finally
             {
                 Console.WriteLine("Try/Catch completed.");
