@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ClassesLab115
 {
@@ -26,6 +23,7 @@ namespace ClassesLab115
                 outcome = myClass.myMethod(Convert.ToInt32(first), Convert.ToInt32(second));
 
             Console.WriteLine("The returned vale of the method with optional parameter: " + outcome); ;
+            Console.Read();
         }
 
         
