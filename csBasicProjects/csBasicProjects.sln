@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsLab", "Exceptions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesLab111", "ClassesLab111\ClassesLab111.csproj", "{3F065A83-EDDF-4414-98C2-86DA1FA6BEB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesLab113", "ClassesLab113\ClassesLab113.csproj", "{9BE1D65D-2711-4A37-BBA2-B93ABDD90D88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{3F065A83-EDDF-4414-98C2-86DA1FA6BEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F065A83-EDDF-4414-98C2-86DA1FA6BEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F065A83-EDDF-4414-98C2-86DA1FA6BEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE1D65D-2711-4A37-BBA2-B93ABDD90D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE1D65D-2711-4A37-BBA2-B93ABDD90D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE1D65D-2711-4A37-BBA2-B93ABDD90D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE1D65D-2711-4A37-BBA2-B93ABDD90D88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

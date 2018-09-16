@@ -8,7 +8,7 @@ using System;
 
 namespace ClassesLab111
 {
-    class myClass
+    class MyClass
     {
         static public int addTwo(int input)
         {
