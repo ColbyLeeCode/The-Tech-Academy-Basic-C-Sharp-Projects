@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesLab113", "ClassesLab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesLab114", "ClassesLab114\ClassesLab114.csproj", "{ACE0B225-DF3D-4E88-8C57-1361ADA57CE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesLab115", "ClassesLabStep115\ClassesLab115.csproj", "{734DC6D7-6AAB-46A4-857E-E3A3AF259B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{ACE0B225-DF3D-4E88-8C57-1361ADA57CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACE0B225-DF3D-4E88-8C57-1361ADA57CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACE0B225-DF3D-4E88-8C57-1361ADA57CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734DC6D7-6AAB-46A4-857E-E3A3AF259B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734DC6D7-6AAB-46A4-857E-E3A3AF259B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734DC6D7-6AAB-46A4-857E-E3A3AF259B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734DC6D7-6AAB-46A4-857E-E3A3AF259B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
