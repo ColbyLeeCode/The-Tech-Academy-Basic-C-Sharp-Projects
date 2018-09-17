@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesLab117", "ClassesLab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritenceStep120", "InheritenceStep120\InheritenceStep120.csproj", "{13AB44A9-44D9-416A-AE4E-8D807F942A5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsractionStep124", "AbsractionStep124\AbsractionStep124.csproj", "{F6E259E5-7668-4309-8A1E-04E558771A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{13AB44A9-44D9-416A-AE4E-8D807F942A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13AB44A9-44D9-416A-AE4E-8D807F942A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13AB44A9-44D9-416A-AE4E-8D807F942A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E259E5-7668-4309-8A1E-04E558771A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E259E5-7668-4309-8A1E-04E558771A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E259E5-7668-4309-8A1E-04E558771A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E259E5-7668-4309-8A1E-04E558771A0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
