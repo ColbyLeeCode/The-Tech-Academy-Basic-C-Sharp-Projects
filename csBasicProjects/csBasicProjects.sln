@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOStep154", "FileIOStep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeStep156", "DateTimeStep156\DateTimeStep156.csproj", "{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorChainingStep162", "ConstructorChainingStep162\ConstructorChainingStep162.csproj", "{21B74AA3-DEEF-4E86-869F-3FB4856735EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B74AA3-DEEF-4E86-869F-3FB4856735EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B74AA3-DEEF-4E86-869F-3FB4856735EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B74AA3-DEEF-4E86-869F-3FB4856735EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B74AA3-DEEF-4E86-869F-3FB4856735EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
