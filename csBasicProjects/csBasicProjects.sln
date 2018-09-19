@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaExpressionStep140", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOStep154", "FileIOStep154\FileIOStep154.csproj", "{36D7DE55-8628-4842-95CC-06B7F99290F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeStep156", "DateTimeStep156\DateTimeStep156.csproj", "{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{36D7DE55-8628-4842-95CC-06B7F99290F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36D7DE55-8628-4842-95CC-06B7F99290F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36D7DE55-8628-4842-95CC-06B7F99290F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B545A9CE-2ACE-46BC-8FF7-19713D323B0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
