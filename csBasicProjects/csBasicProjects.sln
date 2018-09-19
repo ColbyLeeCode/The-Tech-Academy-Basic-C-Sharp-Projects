@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructsStep137", "StructsSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaExpressionStep140", "LamdaExpressionStep140\LamdaExpressionStep140.csproj", "{94D4B980-D778-49C6-AD9B-80C0D036111D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOStep154", "FileIOStep154\FileIOStep154.csproj", "{36D7DE55-8628-4842-95CC-06B7F99290F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{94D4B980-D778-49C6-AD9B-80C0D036111D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D4B980-D778-49C6-AD9B-80C0D036111D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D4B980-D778-49C6-AD9B-80C0D036111D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D7DE55-8628-4842-95CC-06B7F99290F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D7DE55-8628-4842-95CC-06B7F99290F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D7DE55-8628-4842-95CC-06B7F99290F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D7DE55-8628-4842-95CC-06B7F99290F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
